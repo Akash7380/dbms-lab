@@ -107,16 +107,3 @@ WHERE DIR_ID IN (SELECT DIR_ID
 FROM DIRECTOR
 WHERE DIR_NAME = 'STEVEN SPIELBERG'));
 
-SELECT * FROM RATING;
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
